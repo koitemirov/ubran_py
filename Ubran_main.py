@@ -1,1 +1,2 @@
-print("Hi, my name's Abubakr")
+##1st program
+print(9**0.5*5)
